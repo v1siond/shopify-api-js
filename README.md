@@ -1,20 +1,11 @@
-# `@shopify/shopify-api`
+# `@dbadbadba/shopify-api`
 
 <!-- ![Build Status]() -->
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.md)
-[![npm version](https://badge.fury.io/js/%40shopify%2Fshopify-api.svg)](https://badge.fury.io/js/%40shopify%2Fshopify-api)
+[![npm version](https://badge.fury.io/js/%40shopify%2Fshopify-api.svg)](https://badge.fury.io/js/%40dbadbadba%2Fshopify-api)
 
-This library provides support for the backends of TypeScript/JavaScript [Shopify](https://www.shopify.com) apps to access the [Shopify Admin API](https://shopify.dev/docs/admin-api), by making it easier to perform the following actions:
-
-- Creating [online](https://shopify.dev/apps/auth#online-access) or [offline](https://shopify.dev/apps/auth#offline-access) access tokens for the Admin API via OAuth
-- Making requests to the [REST API](https://shopify.dev/docs/admin-api/rest/reference)
-- Making requests to the [GraphQL API](https://shopify.dev/docs/admin-api/graphql/reference)
-- Register/process webhooks
-
-Once your app has access to the Admin API, you can also access the [Shopify Storefront API](https://shopify.dev/docs/storefront-api) to run GraphQL queries using the `unauthenticated_*` access scopes.
-
-This library can be used in any application that runs on one of the supported runtimes. It doesn't rely on any specific framework, so you can include it alongside your preferred stack and only use the features that you need to build your app.
+This library is a fork of [@shopify/shopify-api-js](https://www.npmjs.com/package/@shopify/shopify-api) and it provides support for the backends of TypeScript/JavaScript.
 
 **Note**: this package will enable your app's backend to work with Shopify APIs, but you'll need to use [Shopify App Bridge](https://shopify.dev/apps/tools/app-bridge) in your frontend if you're planning on embedding your app into the Shopify Admin.
 
