@@ -1,5 +1,5 @@
 {
-  "name": "dba-shopify-api",
+  "name": "@dbadbadba/shopify-api",
   "version": "0.0.1",
   "description": "A fork of the Shopify API Library for Node - accelerate development with support for authentication, graphql proxy, webhooks",
   "main": "./lib/index.js",
@@ -53,12 +53,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Shopify/shopify-api-js.git"
+    "url": "git+https://github.com/v1siond/shopify-api-js.git"
   },
   "bugs": {
-    "url": "https://github.com/Shopify/shopify-api-js/issues"
+    "url": "https://github.com/v1siond/shopify-api-js/issues"
   },
-  "homepage": "https://github.com/Shopify/shopify-api-js",
+  "homepage": "https://github.com/v1siond/shopify-api-js",
   "author": "Shopify Inc.",
   "license": "MIT",
   "keywords": [
