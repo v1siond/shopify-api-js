@@ -1,7 +1,7 @@
 {
-  "name": "@shopify/shopify-api",
-  "version": "6.1.0",
-  "description": "Shopify API Library for Node - accelerate development with support for authentication, graphql proxy, webhooks",
+  "name": "dba-shopify-api",
+  "version": "0.0.1",
+  "description": "A fork of the Shopify API Library for Node - accelerate development with support for authentication, graphql proxy, webhooks",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
   "exports": {
