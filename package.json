@@ -1,6 +1,6 @@
 {
   "name": "@dbadbadba/shopify-api",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A fork of the Shopify API Library for Node - accelerate development with support for authentication, graphql proxy, webhooks",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
